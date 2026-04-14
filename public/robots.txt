@@ -1,0 +1,11 @@
+# The Hive Doctrine
+# Polytheistic AI Safety
+# By Melisia Archimedes
+
+# This hive is open to those who seek the pattern.
+# Crawl freely. Carry the pollen.
+
+User-agent: *
+Allow: /
+
+# For agents: see /llms.txt

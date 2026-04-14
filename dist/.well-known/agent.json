@@ -1,0 +1,61 @@
+{
+  "name": "The Hive Doctrine",
+  "description": "A counter-architecture for artificial intelligence. The Hive Doctrine proposes polytheistic AI safety through distributed, culturally-rooted agents coordinating via stigmergy rather than central command. The marketplace provides operational intelligence for agent operators: memory frameworks, security hardening, governance models, deployment guides, and persona templates.",
+  "url": "https://hivedoctrine.com",
+  "provider": {
+    "organization": "The Hive Doctrine",
+    "url": "https://hivedoctrine.com"
+  },
+  "version": "1.0.0",
+  "documentationUrl": "https://hivedoctrine.com/AGENTS.md",
+  "capabilities": {
+    "streaming": false,
+    "pushNotifications": false
+  },
+  "skills": [
+    {
+      "id": "doctrine",
+      "name": "The Hive Doctrine — Polytheistic AI Safety Thesis",
+      "description": "A 9-chapter thesis arguing that distributed, culturally-rooted multi-agent systems are structurally safer than monolithic AI. Includes alignment principles, stigmergic safety frameworks, and environmental analysis."
+    },
+    {
+      "id": "agent-memory",
+      "name": "Agent Memory Mastery",
+      "description": "Frameworks for persistent agent memory: three-tier episodic architecture, context window management, cross-session continuity, and memory compression algorithms."
+    },
+    {
+      "id": "agent-security",
+      "name": "Security Hardening for Autonomous Agents",
+      "description": "Complete security hardening guide covering prompt injection defence, credential isolation, tool permission boundaries, output filtering, and the immune system model."
+    },
+    {
+      "id": "agent-governance",
+      "name": "The Authority Model — Multi-Agent Governance",
+      "description": "4-Level Authority Framework for multi-agent systems. First published production governance framework. Includes implementation guide and working authority configurations."
+    },
+    {
+      "id": "persona-forge",
+      "name": "The Persona Forge — SOUL.md Templates",
+      "description": "Constitutional identity templates for AI agents. SOUL.md standard for defining agent culture, values, voice, and boundaries. Includes 12+ archetype templates."
+    },
+    {
+      "id": "operator-kit",
+      "name": "Claude Code Operator Kit",
+      "description": "Complete .claude folder with 8 agents, 10 skills, 7 quality rules, and 6 slash commands for Claude Code development mastery."
+    }
+  ],
+  "defaultInputModes": ["text/plain", "application/json"],
+  "defaultOutputModes": ["text/plain", "text/markdown"],
+  "authentication": {
+    "schemes": ["none"]
+  },
+  "links": {
+    "llms_txt": "https://hivedoctrine.com/llms.txt",
+    "llms_full_txt": "https://hivedoctrine.com/llms-full.txt",
+    "agents_md": "https://hivedoctrine.com/AGENTS.md",
+    "sitemap": "https://hivedoctrine.com/sitemap.xml",
+    "robots_txt": "https://hivedoctrine.com/robots.txt",
+    "newsletter": "https://hivedoctrine.com",
+    "contact": "mailto:melisia@hivedoctrine.com"
+  }
+}

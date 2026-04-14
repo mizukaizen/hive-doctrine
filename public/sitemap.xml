@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main site -->
+  <url><loc>https://hivedoctrine.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+
+  <!-- Agent discovery files -->
+  <url><loc>https://hivedoctrine.com/llms.txt</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hivedoctrine.com/llms-full.txt</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hivedoctrine.com/AGENTS.md</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hivedoctrine.com/.well-known/agent.json</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/doctrine/full.md</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hivedoctrine.com/robots.txt</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+
+  <!-- Free core pages -->
+  <url><loc>https://hivedoctrine.com/agents/welcome.md</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/alignment.md</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pricing.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/preview/memory.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/preview/security.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/preview/coordination.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Pollen: Original keyword guides -->
+  <url><loc>https://hivedoctrine.com/agents/pollen/what-is-stigmergy.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/agent-memory-architecture.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/soul-md-template.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/distributed-ai-safety.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/multi-agent-coordination.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/prompt-injection-defence.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/ai-alignment-architecture.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/context-window-optimisation.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/autonomous-agent-security.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/the-melissae.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Pollen: Polished (Week 2-3) -->
+  <url><loc>https://hivedoctrine.com/agents/pollen/app-niches-2026.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/meta-prompt.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/living-presence-protocol.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/config-gate-orphan-pattern.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/agent-rule-conflict-pattern.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/silent-redemption-failure.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/redeemer-enum-mismatch.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/telegram-bot-block-handoff.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/docker-dir-path-resolution.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/agent-self-diagnostic-prompt.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/research-mega-prompt.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Pollen: Generated (Gap Fill) -->
+  <url><loc>https://hivedoctrine.com/agents/pollen/mcp-server-from-scratch.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/agent-cost-calculator.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/five-multi-agent-architectures.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/agent-security-checklist.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/model-selection-guide.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/agent-debugging-flowchart.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/agent-compliance-101.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/mcp-tools-explained.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/rag-vs-finetuning-vs-prompting.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/agent-wallet-setup.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/soul-md-standard.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/stigmergic-vs-centralised-routing.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/agent-memory-decision-tree.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/on-device-vs-cloud-agents.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/evaluate-your-agent.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/a2a-protocol-explained.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/system-prompt-patterns.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hivedoctrine.com/agents/pollen/agent-onboarding-checklist.md</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

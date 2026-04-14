@@ -1,0 +1,108 @@
+{
+  "rewrites": [
+    { "source": "/.well-known/oauth-authorization-server", "destination": "/api/oauth-metadata" },
+    { "source": "/.well-known/oauth-protected-resource", "destination": "/api/oauth-metadata" },
+    { "source": "/mcp", "destination": "/api/server" }
+  ],
+  "functions": {
+    "api/server.ts": {
+      "maxDuration": 60
+    },
+    "api/products/[id].ts": {
+      "maxDuration": 30
+    },
+    "api/products.json.ts": {
+      "maxDuration": 10
+    },
+    "api/services/alignment-check.ts": {
+      "maxDuration": 15
+    },
+    "api/services/prompt-score.ts": {
+      "maxDuration": 15
+    },
+    "api/services/context-analyse.ts": {
+      "maxDuration": 15
+    },
+    "api/services/name-generator.ts": {
+      "maxDuration": 15
+    },
+    "api/services/readme-to-agents.ts": {
+      "maxDuration": 30
+    },
+    "api/services/context-lookup.ts": {
+      "maxDuration": 15
+    },
+    "api/services/agent-audit.ts": {
+      "maxDuration": 60
+    },
+    "api/services/threat-model.ts": {
+      "maxDuration": 15
+    },
+    "api/services/agent-architect.ts": {
+      "maxDuration": 30
+    },
+    "api/services/soul-generator.ts": {
+      "maxDuration": 15
+    },
+    "api/services/multi-agent-planner.ts": {
+      "maxDuration": 30
+    },
+    "api/services/security-scan.ts": {
+      "maxDuration": 15
+    },
+    "api/services/cost-estimator.ts": {
+      "maxDuration": 15
+    },
+    "api/services/memory-designer.ts": {
+      "maxDuration": 15
+    },
+    "api/services/tool-auditor.ts": {
+      "maxDuration": 15
+    },
+    "api/services/compliance-check.ts": {
+      "maxDuration": 15
+    },
+    "api/services/deploy-planner.ts": {
+      "maxDuration": 15
+    },
+    "api/terms.ts": {
+      "maxDuration": 5
+    },
+    "api/services/fact-check.ts": {
+      "maxDuration": 15
+    },
+    "api/services/hallucination-check.ts": {
+      "maxDuration": 30
+    },
+    "api/services/schema-validator.ts": {
+      "maxDuration": 15
+    },
+    "api/services/anti-scam-check.ts": {
+      "maxDuration": 15
+    },
+    "api/services/context-optimizer.ts": {
+      "maxDuration": 15
+    },
+    "api/services/jurisdiction-check.ts": {
+      "maxDuration": 15
+    },
+    "api/services/kill-switch.ts": {
+      "maxDuration": 15
+    },
+    "api/services/api-to-mcp.ts": {
+      "maxDuration": 60
+    },
+    "api/services/vibe-audit.ts": {
+      "maxDuration": 30
+    },
+    "api/services/prompt-optimizer.ts": {
+      "maxDuration": 15
+    },
+    "api/services/terms-analyzer.ts": {
+      "maxDuration": 15
+    },
+    "api/services/intent-router.ts": {
+      "maxDuration": 15
+    }
+  }
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#FAFAF8"/>
+  <path d="M600 200l48.5 28v56L600 312l-48.5-28v-56L600 200z" fill="none" stroke="#9B7B3C" stroke-width="2"/>
+  <text x="600" y="390" text-anchor="middle" font-family="Georgia, serif" font-size="42" font-weight="400" fill="#111827" letter-spacing="-1">The Hive Doctrine</text>
+  <text x="600" y="430" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="400" fill="#9CA3AF" letter-spacing="3">POLYTHEISTIC AI SAFETY</text>
+</svg>

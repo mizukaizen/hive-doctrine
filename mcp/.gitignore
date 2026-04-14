@@ -1,0 +1,8 @@
+node_modules/
+.vercel/
+.env
+.env.local
+dist/
+.mcpregistry_*
+.env*.local
+test-payment.mjs

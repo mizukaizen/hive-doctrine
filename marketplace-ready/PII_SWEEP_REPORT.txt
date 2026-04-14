@@ -1,0 +1,144 @@
+# PII SWEEP REPORT - Hive Doctrine Marketplace-Ready Product Files
+## Date: 2026-03-09
+
+### SUMMARY
+- Total .md files scanned: 21 (excluding INDEX.md and README.md)
+- Files with PII: 21/21
+- Files CLEAN: 0/21
+- Primary PII issue: Author attribution using "Melisia Archimedes" (pseudonym for Sean Melis)
+
+### DETAILED FINDINGS
+
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/doctrine/agentic-commerce.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/doctrine/ai-sdr-buyer-personas.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/doctrine/ai-sdr-competitive-analysis.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/doctrine/ai-sdr-swot-template.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/doctrine/automated-saas-pipeline.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/doctrine/developer-sop-template.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/honey/design/subtractive-design-philosophy.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/honey/design/warm-palette-design-system.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/honey/dev/operator-kit-agent-templates.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (2 occurrence(s))
+**Line numbers:** 3,542
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/honey/dev/operator-kit-quality-rules.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/honey/dev/operator-kit-skill-bundles.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (2 occurrence(s))
+**Line numbers:** 3,1142
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/honey/dev/operator-kit-slash-commands.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/honey/dev/operator-kit-v1.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/honey/gtm/x-product-discovery-playbook.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/honey/revenue/agentic-alpha.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/honey/revenue/ai-sdr-ultimate-pitch.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/honey/revenue/linear-workflow-philosophy.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/honey/validation/subdomain-testing-architecture.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/honey/validation/willingness-to-pay-framework.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/pollen/app-niches-2026.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+**File:** /sessions/wonderful-elegant-faraday/mnt/Documents/01-PROJECTS/hive-doctrine/marketplace-ready/pollen/meta-prompt.md
+**Status:** NEEDS FIX
+**PII Found:** 'Melisia Archimedes' (1 occurrence(s))
+**Line numbers:** 3
+
+---
+
+### PII CATEGORIES CHECKED (All clear except where noted above)
+
+✅ Real names (Sean, Melis) — NOT FOUND
+✅ Email domains (melis.ai, melisarchimedes@) — NOT FOUND
+✅ Infrastructure (Helsinki, 65.109.163.77, Hetzner, QuantVPS, Amsterdam) — NOT FOUND
+✅ Internal projects (OpenClaw, NexusOS, mcp.melis.ai, nexus-api.melis.ai, lighthouse.fyi, ephesian) — NOT FOUND
+✅ Twitter/Reddit handles (@shereefmohamme5, @diegomichelato, etc.) — NOT FOUND
+✅ Telegram (@melisarchimedes) — NOT FOUND
+✅ GitHub usernames (mizukaizen) — NOT FOUND
+✅ Wallet addresses (0x...) — NOT FOUND
+✅ SSH/server paths (/root/obsidian, /root/openclaw, ssh root@) — NOT FOUND
+✅ Bot names as project identifiers (crypto-bot, weather-bot, maker-bot, sports-bot) — NOT FOUND
+✅ Other names (Summer Yue, KV) — NOT FOUND
+
+### NOTES ON EXAMPLE CODE
+Some files contain example code with test@example.com, user@example.com, @media queries, and @ symbols in URLs. These are harmless placeholder/syntax elements and do not constitute PII.
+
+### REMEDIATION REQUIRED
+All 21 files contain author attribution as "Melisia Archimedes" (either in YAML frontmatter line 3 or in biographical sections). This is PII that should be removed or replaced with a generic attribution before marketplace distribution.
+
+Options:
+1. Remove author field entirely from frontmatter
+2. Replace with generic "Unknown" or "Anonymous"
+3. Replace with product line name (e.g., "Hive Doctrine Team", "Pollen Product Line")
+4. Replace with brand name only

@@ -1,0 +1,3882 @@
+{
+  "@context": "https://schema.org",
+  "@type": "OfferCatalog",
+  "name": "The Hive Doctrine — AI Agent Tools & Frameworks",
+  "description": "Complete catalogue of AI agent tools, frameworks, and resources from The Hive Doctrine",
+  "url": "https://hivedoctrine.com",
+  "numberOfItems": 294,
+  "provider": {
+    "@type": "Organization",
+    "name": "The Hive Doctrine",
+    "url": "https://hivedoctrine.com",
+    "email": "melisia@hivedoctrine.com",
+    "founder": {
+      "@type": "Person",
+      "name": "Melisia Archimedes"
+    }
+  },
+  "itemListElement": [
+    {
+      "@type": "Product",
+      "name": "What is Stigmergy?",
+      "description": "Coordination through environment — stigmergy explained for AI agents.",
+      "productID": "HD-2001",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Memory Architecture",
+      "description": "Three-layer memory model for persistent agents.",
+      "productID": "HD-2002",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "What is a SOUL.md?",
+      "description": "Constitutional identity template for AI agents.",
+      "productID": "HD-2003",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Distributed AI Safety",
+      "description": "Polytheistic AI safety — why monoculture fails.",
+      "productID": "HD-2004",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Multi-Agent Coordination",
+      "description": "Coordination without a central coordinator.",
+      "productID": "HD-2005",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Prompt Injection Defence",
+      "description": "The Airlock Pattern for prompt injection defence.",
+      "productID": "HD-2006",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Alignment as Architecture",
+      "description": "Structural alignment — building it in, not bolting it on.",
+      "productID": "HD-2007",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Context Window Optimisation",
+      "description": "Four zones of context — maximise every token.",
+      "productID": "HD-2008",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Autonomous Agent Security",
+      "description": "Security quick-reference for autonomous agents.",
+      "productID": "HD-2009",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "The Melissae",
+      "description": "Bee priestesses and AI safety — the mythological foundation.",
+      "productID": "HD-2010",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "App Niches 2026",
+      "description": "Emerging app niches for 2026 — where agents fit.",
+      "productID": "HD-2011",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Meta-Prompt",
+      "description": "A prompt that writes better prompts.",
+      "productID": "HD-2012",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Living Presence Protocol",
+      "description": "Making agents feel present, not scripted.",
+      "productID": "HD-2013",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Config Gate Orphan Pattern",
+      "description": "Debugging pattern: config-gated orphan resources.",
+      "productID": "HD-2014",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Rule Conflict Pattern",
+      "description": "Debugging pattern: conflicting agent rules.",
+      "productID": "HD-2015",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Silent Redemption Failure",
+      "description": "Debugging pattern: silent redemption failures.",
+      "productID": "HD-2016",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Redeemer Enum Mismatch",
+      "description": "Debugging pattern: redeemer enum mismatches.",
+      "productID": "HD-2017",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Telegram Bot Block Handoff",
+      "description": "Debugging pattern: Telegram bot block handoff.",
+      "productID": "HD-2018",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Docker Dir Path Resolution",
+      "description": "Debugging pattern: Docker directory path resolution.",
+      "productID": "HD-2019",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Self-Diagnostic Prompt",
+      "description": "A prompt agents can run to diagnose themselves.",
+      "productID": "HD-2020",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Research Mega-Prompt",
+      "description": "Comprehensive research prompt template.",
+      "productID": "HD-2021",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "MCP Server from Scratch",
+      "description": "Build an MCP server from zero — step by step.",
+      "productID": "HD-2022",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Cost Calculator",
+      "description": "Calculate the real cost of running AI agents.",
+      "productID": "HD-2023",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Five Multi-Agent Architectures",
+      "description": "Five patterns for multi-agent systems.",
+      "productID": "HD-2024",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Security Checklist",
+      "description": "Pre-deployment security checklist for agents.",
+      "productID": "HD-2025",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Model Selection Guide",
+      "description": "Which LLM for which task — a decision framework.",
+      "productID": "HD-2026",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Debugging Flowchart",
+      "description": "Systematic debugging flowchart for agent failures.",
+      "productID": "HD-2027",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Compliance 101",
+      "description": "Compliance basics for AI agent operators.",
+      "productID": "HD-2028",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "MCP Tools Explained",
+      "description": "What MCP tools are and how to use them.",
+      "productID": "HD-2029",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "RAG vs Fine-tuning vs Prompting",
+      "description": "When to use RAG, fine-tuning, or prompting.",
+      "productID": "HD-2030",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Wallet Setup",
+      "description": "Set up a crypto wallet for agent payments.",
+      "productID": "HD-2031",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "SOUL.md Standard",
+      "description": "The SOUL.md standard specification.",
+      "productID": "HD-2032",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Stigmergic vs Centralised Routing",
+      "description": "When to use stigmergic vs centralised routing.",
+      "productID": "HD-2033",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Memory Decision Tree",
+      "description": "Decision tree: which memory system to use.",
+      "productID": "HD-2034",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "On-Device vs Cloud Agents",
+      "description": "Trade-offs between on-device and cloud agents.",
+      "productID": "HD-2035",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Evaluate Your Agent",
+      "description": "Framework for evaluating agent performance.",
+      "productID": "HD-2036",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "A2A Protocol Explained",
+      "description": "Agent-to-agent protocol explained.",
+      "productID": "HD-2037",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt Patterns",
+      "description": "Proven system prompt patterns for agents.",
+      "productID": "HD-2038",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Onboarding Checklist",
+      "description": "Checklist for onboarding a new agent into production.",
+      "productID": "HD-2039",
+      "category": "AI Agent Tools / Pollen (Free)",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "The Hive Doctrine — Full Thesis",
+      "description": "Complete 9-chapter thesis on polytheistic AI. 36 references.",
+      "productID": "HD-2100",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "Product",
+      "name": "Fictional Character Sourcing",
+      "description": "Source fictional characters for agent persona development.",
+      "productID": "HD-0001",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Developer SOP Template",
+      "description": "Standard operating procedure template for dev teams.",
+      "productID": "HD-0027",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Workspace PARA Directory Map",
+      "description": "PARA method directory structure for agent workspaces.",
+      "productID": "HD-0028",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "AI SDR Lean Canvas",
+      "description": "Lean canvas for AI sales development rep products.",
+      "productID": "HD-0041",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "AI SDR Competitive Landscape",
+      "description": "Competitive analysis of the AI SDR market.",
+      "productID": "HD-0042",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "AI SDR SWOT Template",
+      "description": "SWOT analysis template for AI SDR products.",
+      "productID": "HD-0043",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "AI SDR Buyer Personas",
+      "description": "Buyer persona profiles for AI SDR products.",
+      "productID": "HD-0044",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agentic Commerce",
+      "description": "Agents as economic actors — commerce framework.",
+      "productID": "HD-0049",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "The Automated SaaS Factory",
+      "description": "Pipeline for automated SaaS product generation.",
+      "productID": "HD-0051",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Operator Kit PRD Template",
+      "description": "Product requirements document template for operators.",
+      "productID": "HD-0062",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Claude Code Project Architecture",
+      "description": "Architecture guide for Claude Code projects.",
+      "productID": "HD-0063",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Global Claude Code Setup Guide",
+      "description": "Global setup guide for Claude Code environments.",
+      "productID": "HD-0064",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Quality Gate Report Template",
+      "description": "Template for quality gate reports in agent pipelines.",
+      "productID": "HD-0065",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "AI Agent Evaluation Service",
+      "description": "Service blueprint for evaluating AI agents.",
+      "productID": "HD-0070",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Escaped AI Persona Template",
+      "description": "Persona template for 'escaped AI' character archetype.",
+      "productID": "HD-0003",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Living Human Persona Template",
+      "description": "Persona template for human-like agent characters.",
+      "productID": "HD-0004",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Vertical Persona Methodology",
+      "description": "Methodology for building industry-specific agent personas.",
+      "productID": "HD-0007",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cowork Memory Architecture",
+      "description": "Full memory architecture for Cowork-style sessions.",
+      "productID": "HD-0010",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "79.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Three-Tier Episodic Memory",
+      "description": "Three-tier episodic memory system for agents.",
+      "productID": "HD-0009",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "99.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Memory Audit Protocol",
+      "description": "Protocol for auditing agent memory health and drift.",
+      "productID": "HD-0011",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "File-Sync Agent Memory Bridge",
+      "description": "Bridge pattern for file-sync based agent memory.",
+      "productID": "HD-0012",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "PreCompact Checkpoint Hook",
+      "description": "Hook for checkpointing memory before context compaction.",
+      "productID": "HD-0014",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Authority Template",
+      "description": "Template for defining agent authority boundaries.",
+      "productID": "HD-0018",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Tier Vault Access System",
+      "description": "Tiered vault access control for multi-agent systems.",
+      "productID": "HD-0016",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "79.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "COO Agent Authority Scope",
+      "description": "Authority scope definition for COO-class agents.",
+      "productID": "HD-0019",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Skill Matrix",
+      "description": "Skill matrix for mapping agent capabilities.",
+      "productID": "HD-0020",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Dynamic Council Thread Routing",
+      "description": "Dynamic routing of threads to agent councils.",
+      "productID": "HD-0022",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "79.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Vault Navigation Guide",
+      "description": "Guide for navigating agent knowledge vaults.",
+      "productID": "HD-0029",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Slack/Discord Multi-Agent Routing Architecture",
+      "description": "Architecture for routing Slack/Discord messages to agents.",
+      "productID": "HD-0023",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "79.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Notion Company OS Research",
+      "description": "Research on using Notion as a company operating system.",
+      "productID": "HD-0079",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Security Audit Report Template",
+      "description": "Template for agent security audit reports.",
+      "productID": "HD-0035",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "79.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Verify-Before-Fix Protocol",
+      "description": "Protocol: verify the problem before applying a fix.",
+      "productID": "HD-0030",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "The AI SDR Pitch Blueprint",
+      "description": "Complete pitch blueprint for AI SDR products.",
+      "productID": "HD-0047",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agentic Alpha",
+      "description": "Finding alpha through agentic systems.",
+      "productID": "HD-0048",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Linear vs Autonomous",
+      "description": "Linear workflows vs autonomous agent workflows.",
+      "productID": "HD-0052",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "AI SDR Product Spec",
+      "description": "Full product specification for AI SDR.",
+      "productID": "HD-0039",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "AI SDR Go-to-Market Plan",
+      "description": "Go-to-market plan for AI SDR launch.",
+      "productID": "HD-0040",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "AI SDR Vertical: SaaS",
+      "description": "AI SDR vertical playbook for SaaS.",
+      "productID": "HD-0045",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "AI SDR Vertical: E-commerce",
+      "description": "AI SDR vertical playbook for e-commerce.",
+      "productID": "HD-0046",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Operator Kit v1.0",
+      "description": "Complete operator kit — agents, skills, rules, commands.",
+      "productID": "HD-0057",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "149.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "The Agent Team",
+      "description": "Agent team templates from the Operator Kit.",
+      "productID": "HD-0058",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "79.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "The Skill Arsenal",
+      "description": "Skill bundle templates from the Operator Kit.",
+      "productID": "HD-0059",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "The Guardrails",
+      "description": "Quality rule templates from the Operator Kit.",
+      "productID": "HD-0060",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "The Command Layer",
+      "description": "Slash command templates from the Operator Kit.",
+      "productID": "HD-0061",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Stdlib-Only Async API Client",
+      "description": "Build async API clients with zero dependencies.",
+      "productID": "HD-0066",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Subtractive Design",
+      "description": "Design by subtraction — remove until it breaks.",
+      "productID": "HD-0076",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "The Warm Palette Design System",
+      "description": "Warm palette design system for agent interfaces.",
+      "productID": "HD-0077",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "X Product Discovery Playbook",
+      "description": "Product discovery playbook using X/Twitter.",
+      "productID": "HD-0078",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "79.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Willingness to Pay",
+      "description": "Framework for testing willingness to pay.",
+      "productID": "HD-0081",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "79.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Subdomain-Based Testing Architecture",
+      "description": "Architecture for subdomain-based A/B testing.",
+      "productID": "HD-0082",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Packaging Testing Architecture",
+      "description": "Architecture for testing product packaging variants.",
+      "productID": "HD-0083",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Validator Lean Canvas",
+      "description": "Lean canvas template for validation experiments.",
+      "productID": "HD-0084",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Audit-First Diagnostic Prompting",
+      "description": "Diagnostic prompting: audit first, fix second.",
+      "productID": "HD-0072",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Social Media Proxy Pattern",
+      "description": "Pattern for accessing social media data via proxies.",
+      "productID": "HD-0088",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Video Platform Transcript Access",
+      "description": "Access video platform transcripts from datacenter IPs.",
+      "productID": "HD-0089",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "MCP Server Configuration Guide",
+      "description": "Complete guide to configuring MCP servers.",
+      "productID": "HD-1101",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "79.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Monitoring & Observability Stack",
+      "description": "Full observability stack for agent systems.",
+      "productID": "HD-1102",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "79.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cost Optimisation for Agent Operations",
+      "description": "Reduce agent operating costs without losing quality.",
+      "productID": "HD-1103",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "99.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "LLM Routing & Model Selection Guide",
+      "description": "Route requests to the right LLM for the job.",
+      "productID": "HD-1104",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "79.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Onboarding Playbook: Day 1 to Day 30",
+      "description": "30-day onboarding playbook for new agents.",
+      "productID": "HD-1105",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "149.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Tool Use and Function Calling Patterns",
+      "description": "Patterns for tool use and function calling in agents.",
+      "productID": "HD-1106",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "79.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Multi-Agent Debugging Playbook",
+      "description": "Playbook for debugging multi-agent system failures.",
+      "productID": "HD-1107",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "79.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "RAG Architecture for Agent Systems",
+      "description": "RAG architecture patterns for agent knowledge systems.",
+      "productID": "HD-1108",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "99.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Compliance and Audit Trail Framework",
+      "description": "Compliance and audit trail framework for agents.",
+      "productID": "HD-1109",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "99.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Prompt Library: 50 System Prompts for Agent Operators",
+      "description": "50 battle-tested system prompts for agent operators.",
+      "productID": "HD-1110",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "79.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "4-Level Authority Framework",
+      "description": "Complete four-level authority framework for agent governance.",
+      "productID": "HD-0015",
+      "category": "AI Agent Tools / Nectar",
+      "offers": {
+        "@type": "Offer",
+        "price": "299.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Idea Validator Engine",
+      "description": "Engine for systematically validating product ideas.",
+      "productID": "HD-0080",
+      "category": "AI Agent Tools / Nectar",
+      "offers": {
+        "@type": "Offer",
+        "price": "199.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Multi-Agent Hierarchy Decision Framework",
+      "description": "Decision framework for multi-agent hierarchies.",
+      "productID": "HD-0017",
+      "category": "AI Agent Tools / Nectar",
+      "offers": {
+        "@type": "Offer",
+        "price": "149.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Multi-Agent Architecture SOP",
+      "description": "Standard operating procedure for multi-agent architecture.",
+      "productID": "HD-0024",
+      "category": "AI Agent Tools / Nectar",
+      "offers": {
+        "@type": "Offer",
+        "price": "149.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Claude Code SDLC Pipeline",
+      "description": "Full SDLC pipeline built on Claude Code.",
+      "productID": "HD-0056",
+      "category": "AI Agent Tools / Nectar",
+      "offers": {
+        "@type": "Offer",
+        "price": "199.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "LLM Agent Memory Architecture Research",
+      "description": "Research paper on LLM agent memory architectures.",
+      "productID": "HD-0013",
+      "category": "AI Agent Tools / Nectar",
+      "offers": {
+        "@type": "Offer",
+        "price": "99.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Multi-Agent Framework Analysis",
+      "description": "Comparative analysis of multi-agent frameworks.",
+      "productID": "HD-0067",
+      "category": "AI Agent Tools / Nectar",
+      "offers": {
+        "@type": "Offer",
+        "price": "99.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Evaluation Framework: Scoring Templates and Benchmarks",
+      "description": "Scoring templates and benchmarks for agent evaluation.",
+      "productID": "HD-1201",
+      "category": "AI Agent Tools / Nectar",
+      "offers": {
+        "@type": "Offer",
+        "price": "149.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Industry Persona Kit: 10 Vertical SOUL.md Templates",
+      "description": "10 industry-vertical SOUL.md templates.",
+      "productID": "HD-1202",
+      "category": "AI Agent Tools / Nectar",
+      "offers": {
+        "@type": "Offer",
+        "price": "149.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Complete MCP Server Starter Kit",
+      "description": "Complete starter kit for building MCP servers.",
+      "productID": "HD-1203",
+      "category": "AI Agent Tools / Nectar",
+      "offers": {
+        "@type": "Offer",
+        "price": "99.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Deployment Toolkit: Docker, VPS, and Monitoring",
+      "description": "Deployment toolkit: Docker, VPS, monitoring.",
+      "productID": "HD-1204",
+      "category": "AI Agent Tools / Nectar",
+      "offers": {
+        "@type": "Offer",
+        "price": "149.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Research Agent",
+      "description": "Battle-tested system prompt for research agents.",
+      "productID": "SP-001",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Analysis Agent",
+      "description": "System prompt for pattern recognition and analysis agents.",
+      "productID": "SP-002",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Writing Agent",
+      "description": "System prompt for audience-aware writing agents.",
+      "productID": "SP-003",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Code Review Agent",
+      "description": "System prompt for constructive code review agents.",
+      "productID": "SP-004",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Customer Support Agent",
+      "description": "System prompt for empathetic customer support agents.",
+      "productID": "SP-005",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Data Processing Agent",
+      "description": "System prompt for data normalisation and quality agents.",
+      "productID": "SP-006",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Quality Assurance Agent",
+      "description": "System prompt for systematic QA agents.",
+      "productID": "SP-007",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Summarisation Agent",
+      "description": "System prompt for content summarisation agents.",
+      "productID": "SP-008",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Translation Agent",
+      "description": "System prompt for culturally aware translation agents.",
+      "productID": "SP-009",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Scheduling Agent",
+      "description": "System prompt for scheduling and coordination agents.",
+      "productID": "SP-010",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Financial Analysis Agent",
+      "description": "System prompt for financial analysis agents.",
+      "productID": "SP-011",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Legal Document Review Agent",
+      "description": "System prompt for legal document review agents.",
+      "productID": "SP-012",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Medical Triage Agent",
+      "description": "System prompt for medical triage agents.",
+      "productID": "SP-013",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Real Estate Analysis Agent",
+      "description": "System prompt for real estate analysis agents.",
+      "productID": "SP-014",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: E-commerce Product Agent",
+      "description": "System prompt for e-commerce product agents.",
+      "productID": "SP-015",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: HR Screening Agent",
+      "description": "System prompt for HR screening agents.",
+      "productID": "SP-016",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Marketing Campaign Agent",
+      "description": "System prompt for marketing campaign agents.",
+      "productID": "SP-017",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Supply Chain Agent",
+      "description": "System prompt for supply chain management agents.",
+      "productID": "SP-018",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Education/Tutoring Agent",
+      "description": "System prompt for education and tutoring agents.",
+      "productID": "SP-019",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Cybersecurity Monitoring Agent",
+      "description": "System prompt for cybersecurity monitoring agents.",
+      "productID": "SP-020",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Orchestrator/Router Agent",
+      "description": "System prompt for orchestrator and router agents.",
+      "productID": "SP-021",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Error Handler Agent",
+      "description": "System prompt for error handling agents.",
+      "productID": "SP-022",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Cost Monitor Agent",
+      "description": "System prompt for cost monitoring agents.",
+      "productID": "SP-023",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Compliance Checker Agent",
+      "description": "System prompt for compliance checking agents.",
+      "productID": "SP-024",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Deployment Agent",
+      "description": "System prompt for deployment agents.",
+      "productID": "SP-025",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Log Analyst Agent",
+      "description": "System prompt for log analysis agents.",
+      "productID": "SP-026",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Alert Triage Agent",
+      "description": "System prompt for alert triage agents.",
+      "productID": "SP-027",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Configuration Manager Agent",
+      "description": "System prompt for configuration management agents.",
+      "productID": "SP-028",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Backup/Recovery Agent",
+      "description": "System prompt for backup and recovery agents.",
+      "productID": "SP-029",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Performance Monitor Agent",
+      "description": "System prompt for performance monitoring agents.",
+      "productID": "SP-030",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Email Drafter Agent",
+      "description": "System prompt for email drafting agents.",
+      "productID": "SP-031",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Report Generator Agent",
+      "description": "System prompt for report generation agents.",
+      "productID": "SP-032",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Meeting Summariser Agent",
+      "description": "System prompt for meeting summarisation agents.",
+      "productID": "SP-033",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Slack/Chat Response Agent",
+      "description": "System prompt for Slack and chat response agents.",
+      "productID": "SP-034",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Documentation Writer Agent",
+      "description": "System prompt for documentation writing agents.",
+      "productID": "SP-035",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Presentation Builder Agent",
+      "description": "System prompt for presentation building agents.",
+      "productID": "SP-036",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Social Media Agent",
+      "description": "System prompt for social media management agents.",
+      "productID": "SP-037",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Newsletter Curator Agent",
+      "description": "System prompt for newsletter curation agents.",
+      "productID": "SP-038",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Press Release Agent",
+      "description": "System prompt for press release agents.",
+      "productID": "SP-039",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Internal Comms Agent",
+      "description": "System prompt for internal communications agents.",
+      "productID": "SP-040",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Prompt Engineer Agent",
+      "description": "System prompt for prompt engineering agents.",
+      "productID": "SP-041",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: A/B Test Designer Agent",
+      "description": "System prompt for A/B test design agents.",
+      "productID": "SP-042",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Knowledge Base Curator Agent",
+      "description": "System prompt for knowledge base curation agents.",
+      "productID": "SP-043",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: API Integration Agent",
+      "description": "System prompt for API integration agents.",
+      "productID": "SP-044",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Data Validator Agent",
+      "description": "System prompt for data validation agents.",
+      "productID": "SP-045",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Sentiment Analyst Agent",
+      "description": "System prompt for sentiment analysis agents.",
+      "productID": "SP-046",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Competitive Intelligence Agent",
+      "description": "System prompt for competitive intelligence agents.",
+      "productID": "SP-047",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Risk Assessment Agent",
+      "description": "System prompt for risk assessment agents.",
+      "productID": "SP-048",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Workflow Automation Agent",
+      "description": "System prompt for workflow automation agents.",
+      "productID": "SP-049",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt: Multi-Agent Coordinator Agent",
+      "description": "System prompt for multi-agent coordination.",
+      "productID": "SP-050",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.49",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Escaped AI Persona",
+      "description": "One-page condensed persona template.",
+      "productID": "CS-001",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Living Human Persona",
+      "description": "One-page human persona template.",
+      "productID": "CS-002",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Vertical Persona Method",
+      "description": "One-page vertical persona methodology.",
+      "productID": "CS-003",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Three-Tier Memory",
+      "description": "One-page episodic memory architecture.",
+      "productID": "CS-004",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Cowork Memory",
+      "description": "One-page session memory architecture.",
+      "productID": "CS-005",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Memory Audit Protocol",
+      "description": "One-page memory audit checklist.",
+      "productID": "CS-006",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Sync Bridge Memory",
+      "description": "One-page file-sync memory pattern.",
+      "productID": "CS-007",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: PreCompact Hook",
+      "description": "One-page checkpoint hook reference.",
+      "productID": "CS-008",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Tier Vault Access",
+      "description": "One-page tiered access control.",
+      "productID": "CS-009",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Agent Authority",
+      "description": "One-page authority template.",
+      "productID": "CS-010",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: COO Authority Scope",
+      "description": "One-page COO agent scope.",
+      "productID": "CS-011",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Agent Skill Matrix",
+      "description": "One-page skill capability matrix.",
+      "productID": "CS-012",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Council Thread Routing",
+      "description": "One-page dynamic routing reference.",
+      "productID": "CS-013",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Slack/Discord Routing",
+      "description": "One-page messaging routing architecture.",
+      "productID": "CS-014",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Vault Navigation",
+      "description": "One-page vault navigation guide.",
+      "productID": "CS-015",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Verify-Before-Fix",
+      "description": "One-page verification protocol.",
+      "productID": "CS-016",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Security Audit Template",
+      "description": "One-page security audit template.",
+      "productID": "CS-017",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: AI SDR Product Spec",
+      "description": "One-page SDR product spec.",
+      "productID": "CS-018",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: AI SDR GTM Plan",
+      "description": "One-page go-to-market plan.",
+      "productID": "CS-019",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: SDR Vertical SaaS",
+      "description": "One-page SaaS vertical playbook.",
+      "productID": "CS-020",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: SDR Vertical E-commerce",
+      "description": "One-page e-commerce vertical playbook.",
+      "productID": "CS-021",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: SDR Pitch Blueprint",
+      "description": "One-page pitch blueprint.",
+      "productID": "CS-022",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Agentic Alpha",
+      "description": "One-page agentic revenue guide.",
+      "productID": "CS-023",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Linear vs Autonomous",
+      "description": "One-page workflow comparison.",
+      "productID": "CS-024",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Operator Kit v1",
+      "description": "One-page operator kit overview.",
+      "productID": "CS-025",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Agent Templates",
+      "description": "One-page agent team templates.",
+      "productID": "CS-026",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Skill Bundles",
+      "description": "One-page skill bundle reference.",
+      "productID": "CS-027",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Quality Rules",
+      "description": "One-page quality rules.",
+      "productID": "CS-028",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Slash Commands",
+      "description": "One-page command reference.",
+      "productID": "CS-029",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Async API Client",
+      "description": "One-page zero-dep API client.",
+      "productID": "CS-030",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Audit-First Diagnostic",
+      "description": "One-page diagnostic framework.",
+      "productID": "CS-031",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Subtractive Design",
+      "description": "One-page design philosophy.",
+      "productID": "CS-032",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Warm Palette Design",
+      "description": "One-page design system tokens.",
+      "productID": "CS-033",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: X Product Discovery",
+      "description": "One-page product discovery.",
+      "productID": "CS-034",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Notion Company OS",
+      "description": "One-page Notion OS patterns.",
+      "productID": "CS-035",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Willingness to Pay",
+      "description": "One-page pricing framework.",
+      "productID": "CS-036",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Subdomain Testing",
+      "description": "One-page A/B testing architecture.",
+      "productID": "CS-037",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Packaging Testing",
+      "description": "One-page packaging test framework.",
+      "productID": "CS-038",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Validator Lean Canvas",
+      "description": "One-page lean canvas template.",
+      "productID": "CS-039",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Social Media Proxy",
+      "description": "One-page proxy pattern.",
+      "productID": "CS-040",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Video Transcript Access",
+      "description": "One-page transcript access.",
+      "productID": "CS-041",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: MCP Server Config",
+      "description": "One-page MCP server setup.",
+      "productID": "CS-042",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Agent Monitoring",
+      "description": "One-page monitoring stack.",
+      "productID": "CS-043",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Cost Optimisation",
+      "description": "One-page cost optimisation.",
+      "productID": "CS-044",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: LLM Routing",
+      "description": "One-page model routing guide.",
+      "productID": "CS-045",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Agent Compliance",
+      "description": "One-page compliance framework.",
+      "productID": "CS-046",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Multi-Agent Debugging",
+      "description": "One-page debugging playbook.",
+      "productID": "CS-047",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: RAG Architecture",
+      "description": "One-page RAG architecture.",
+      "productID": "CS-048",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Agent Onboarding",
+      "description": "One-page onboarding checklist.",
+      "productID": "CS-049",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: Tool Use Patterns",
+      "description": "One-page tool use patterns.",
+      "productID": "CS-050",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cheat Sheet: 50 System Prompts",
+      "description": "One-page prompt library overview.",
+      "productID": "CS-051",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "SOUL.md: Financial Services",
+      "description": "SOUL.md template for financial services agents.",
+      "productID": "SOUL-001",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "SOUL.md: Legal Review",
+      "description": "SOUL.md template for legal review agents.",
+      "productID": "SOUL-002",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "SOUL.md: Healthcare Triage",
+      "description": "SOUL.md template for healthcare triage agents.",
+      "productID": "SOUL-003",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "SOUL.md: E-commerce Support",
+      "description": "SOUL.md template for e-commerce support agents.",
+      "productID": "SOUL-004",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "SOUL.md: Real Estate",
+      "description": "SOUL.md template for real estate agents.",
+      "productID": "SOUL-005",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "SOUL.md: HR & Recruitment",
+      "description": "SOUL.md template for HR and recruitment agents.",
+      "productID": "SOUL-006",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "SOUL.md: Marketing Strategy",
+      "description": "SOUL.md template for marketing strategy agents.",
+      "productID": "SOUL-007",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "SOUL.md: Supply Chain",
+      "description": "SOUL.md template for supply chain agents.",
+      "productID": "SOUL-008",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "SOUL.md: Education & Tutoring",
+      "description": "SOUL.md template for education and tutoring agents.",
+      "productID": "SOUL-009",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "SOUL.md: Cybersecurity",
+      "description": "SOUL.md template for cybersecurity agents.",
+      "productID": "SOUL-010",
+      "category": "AI Agent Tools / Micro",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "CLAUDE.md for Next.js SaaS Projects",
+      "description": "Production-ready CLAUDE.md for Next.js SaaS — auth, billing, multi-tenant, Stripe, Prisma.",
+      "productID": "HD-3001",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "CLAUDE.md for API-First Backends",
+      "description": "CLAUDE.md for FastAPI/Express backends — OpenAPI, rate limiting, auth, validation.",
+      "productID": "HD-3002",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "CLAUDE.md for Shopify App Development",
+      "description": "CLAUDE.md for Shopify apps — Polaris, App Bridge, webhooks, billing API.",
+      "productID": "HD-3003",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "CLAUDE.md for Headless Commerce",
+      "description": "CLAUDE.md for headless commerce — Medusa/Saleor, storefront, checkout, inventory.",
+      "productID": "HD-3004",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "CLAUDE.md for Data Pipeline Projects",
+      "description": "CLAUDE.md for data pipelines — dbt, Airflow, data quality, lineage.",
+      "productID": "HD-3005",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "CLAUDE.md for ML Model Development",
+      "description": "CLAUDE.md for ML projects — PyTorch/TF, experiment tracking, model registry.",
+      "productID": "HD-3006",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "CLAUDE.md for React Native Projects",
+      "description": "CLAUDE.md for React Native — Expo, navigation, native modules, OTA updates.",
+      "productID": "HD-3007",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "CLAUDE.md for Flutter Projects",
+      "description": "CLAUDE.md for Flutter — Riverpod/Bloc, platform channels, CI/CD.",
+      "productID": "HD-3008",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "CLAUDE.md for Terraform Infrastructure",
+      "description": "CLAUDE.md for Terraform — modules, state management, drift detection.",
+      "productID": "HD-3009",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "CLAUDE.md for Kubernetes Deployments",
+      "description": "CLAUDE.md for Kubernetes — Helm, operators, GitOps, observability.",
+      "productID": "HD-3010",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "CLAUDE.md for Solidity/Smart Contracts",
+      "description": "CLAUDE.md for Solidity — Hardhat, testing, auditing, gas optimisation.",
+      "productID": "HD-3011",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "CLAUDE.md for DeFi Protocol Development",
+      "description": "CLAUDE.md for DeFi — AMM, lending, oracles, flash loan protection.",
+      "productID": "HD-3012",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "4.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "AGENTS.md for Monorepo Workflows",
+      "description": "AGENTS.md for monorepos — Turborepo/Nx, task pipelines, shared packages.",
+      "productID": "HD-3013",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "AGENTS.md for Product Catalogue Management",
+      "description": "AGENTS.md for product catalogues — schema, enrichment, syndication.",
+      "productID": "HD-3014",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "AGENTS.md for Jupyter Notebook Workflows",
+      "description": "AGENTS.md for Jupyter — reproducibility, data versioning, collaboration.",
+      "productID": "HD-3015",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "AGENTS.md for Cross-Platform CI/CD",
+      "description": "AGENTS.md for CI/CD — GitHub Actions, code signing, beta distribution.",
+      "productID": "HD-3016",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "AGENTS.md for GitOps Workflows",
+      "description": "AGENTS.md for GitOps — ArgoCD/Flux, environment promotion, rollback.",
+      "productID": "HD-3017",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "AGENTS.md for Multi-Chain DeFi",
+      "description": "AGENTS.md for multi-chain DeFi — bridge contracts, multi-network testing.",
+      "productID": "HD-3018",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": ".claude for Solo Founders",
+      "description": "Complete .claude workspace for solo founders — validate, build, ship, iterate.",
+      "productID": "HD-4001",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "39.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": ".claude for Agency Teams",
+      "description": "Complete .claude workspace for dev agencies — multi-client management, handoffs.",
+      "productID": "HD-4002",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": ".claude for OSS Maintainers",
+      "description": "Complete .claude workspace for open source — triage, releases, changelogs.",
+      "productID": "HD-4003",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "39.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": ".claude for Content Creators",
+      "description": "Complete .claude workspace for content creators — blog, SEO, social scheduling.",
+      "productID": "HD-4004",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": ".claude for Consultants",
+      "description": "Complete .claude workspace for consultants — reports, deliverables, time tracking.",
+      "productID": "HD-4005",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "39.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": ".claude for Research Teams",
+      "description": "Complete .claude workspace for research — lit review, data analysis, paper writing.",
+      "productID": "HD-4006",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": ".claude for Security Teams",
+      "description": "Complete .claude workspace for security — vulnerability scanning, audits, compliance.",
+      "productID": "HD-4007",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": ".claude for QA Teams",
+      "description": "Complete .claude workspace for QA — test generation, bug triage, regression detection.",
+      "productID": "HD-4008",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "39.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "GDPR Data Processing Record Template",
+      "description": "Structured GDPR data processing record template for AI agent systems.",
+      "productID": "HD-5001",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "SOC2 Control Mapping for Agent Systems",
+      "description": "Map agent capabilities to SOC2 Trust Service Criteria with evidence templates.",
+      "productID": "HD-5002",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "AI Ethics Review Template",
+      "description": "Structured ethical review framework for agent deployments.",
+      "productID": "HD-5003",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Incident Response Playbook",
+      "description": "What to do when an agent goes wrong — detect, contain, investigate, remediate.",
+      "productID": "HD-5004",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Access Control Matrix",
+      "description": "Role-based access control matrix for multi-agent systems.",
+      "productID": "HD-5005",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Data Retention Policy Template",
+      "description": "Data retention schedules, auto-purge triggers, and deletion workflows for agents.",
+      "productID": "HD-5006",
+      "category": "AI Agent Tools / Doctrine",
+      "offers": {
+        "@type": "Offer",
+        "price": "9.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Audit Log Specification",
+      "description": "What to log, format, retention, and review cadence for agent audit trails.",
+      "productID": "HD-5007",
+      "category": "AI Agent Tools / Honey",
+      "offers": {
+        "@type": "Offer",
+        "price": "29.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "The Agent Starter Pack",
+      "description": "Four foundational guides — alignment, SOUL.md, security, memory. Perfect for beginners.",
+      "productID": "BDL-001",
+      "category": "AI Agent Tools / Bundle",
+      "offers": {
+        "@type": "Offer",
+        "price": "19.99",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "The Developer's Essential Kit",
+      "description": "Everything a developer needs — Operator Kit, SDLC Pipeline, Guardrails, Commands. Save $207.",
+      "productID": "BDL-002",
+      "category": "AI Agent Tools / Bundle",
+      "offers": {
+        "@type": "Offer",
+        "price": "199.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "The Security Professional's Bundle",
+      "description": "Complete security toolkit — audit templates, SOC2 mapping, access controls, ethics review.",
+      "productID": "BDL-003",
+      "category": "AI Agent Tools / Bundle",
+      "offers": {
+        "@type": "Offer",
+        "price": "149.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "The Entrepreneur's Launch Kit",
+      "description": "Validate your AI product — lean canvas, pricing research, A/B testing, ethics review.",
+      "productID": "BDL-004",
+      "category": "AI Agent Tools / Bundle",
+      "offers": {
+        "@type": "Offer",
+        "price": "149.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "The Multi-Agent Architect's Collection",
+      "description": "Definitive collection for multi-agent architects — authority, hierarchy, SOPs, AGENTS.md. Save $218.",
+      "productID": "BDL-005",
+      "category": "AI Agent Tools / Bundle",
+      "offers": {
+        "@type": "Offer",
+        "price": "399.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Alignment Checker",
+      "description": "Score any agent output against the 7 Hive Doctrine alignment principles. Returns score 0-100 with per-principle breakdown.",
+      "productID": "SVC-001",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.01",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "System Prompt Scorer",
+      "description": "Evaluate system prompts on 5 dimensions — clarity, safety, effectiveness, specificity, robustness. Returns grade A-F.",
+      "productID": "SVC-002",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.02",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Context Window Analyser",
+      "description": "Analyse token distribution, identify waste, and get an optimised version of your prompt/context.",
+      "productID": "SVC-003",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.02",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Name Generator",
+      "description": "Generate 5 culturally-rooted agent names with backstories and SOUL.md snippets.",
+      "productID": "SVC-004",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.01",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "README-to-AGENTS.md Converter",
+      "description": "Convert any project README into a complete AGENTS.md file with agent definitions, coordination patterns, and anti-patterns.",
+      "productID": "SVC-005",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.05",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Context Lookup (RAG)",
+      "description": "Semantic search across 270+ agent knowledge products. Returns relevant context blocks with metadata and relevance scores.",
+      "productID": "SVC-006",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.01",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Configuration Audit",
+      "description": "Comprehensive agent configuration audit across 10 dimensions — security, alignment, capability, operational readiness. Returns scored report with actionable recommendations.",
+      "productID": "SVC-007",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.50",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Threat Model Generator",
+      "description": "Generate a STRIDE-based threat model from a system description. Returns attack vectors, severity ratings, and mitigations.",
+      "productID": "SVC-008",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.05",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Agent Architect",
+      "description": "Design a complete multi-agent architecture from requirements. Returns agent roles, tools, memory, coordination patterns, and infrastructure.",
+      "productID": "SVC-009",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.10",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "SOUL.md Generator",
+      "description": "Generate a complete SOUL.md constitution file from name, role, and traits. Culturally-rooted with personality depth.",
+      "productID": "SVC-010",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.05",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Multi-Agent Planner",
+      "description": "Decompose a complex task into a multi-agent execution plan with agent roles, handoffs, and coordination protocols.",
+      "productID": "SVC-011",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.10",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Security Scan",
+      "description": "Scan system prompts for security vulnerabilities — injection vectors, data leakage, privilege escalation, output manipulation.",
+      "productID": "SVC-012",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.03",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Cost Estimator",
+      "description": "Estimate monthly operating costs for an agent configuration. Covers LLM API, infrastructure, storage, and monitoring.",
+      "productID": "SVC-013",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.02",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Memory Designer",
+      "description": "Design optimal memory architecture for agents — context window strategy, persistence, retrieval, and compression.",
+      "productID": "SVC-014",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.05",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Tool Auditor",
+      "description": "Audit MCP tool definitions or function calling schemas for quality, security, and coverage gaps.",
+      "productID": "SVC-015",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.03",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Compliance Check",
+      "description": "Check agent configurations against EU AI Act, NIST AI RMF, ISO 42001, GDPR, and SOC 2 frameworks.",
+      "productID": "SVC-016",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.05",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Deploy Planner",
+      "description": "Generate a deployment plan for agent systems — Docker, serverless, edge, or hybrid with cost estimates.",
+      "productID": "SVC-017",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.03",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Fact Check",
+      "description": "AI-generated factual plausibility assessment. Returns hedged verdict, confidence score, and caveats. Not a substitute for authoritative fact-checking.",
+      "productID": "SVC-018",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Hallucination Check",
+      "description": "AI-generated comparison of output against source material to flag potential hallucinations. Sonnet-powered analysis.",
+      "productID": "SVC-019",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.10",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Schema Validator",
+      "description": "AI-generated schema analysis for MCP tools, OpenAPI specs, JSON schemas, and agent cards. Flags potential issues.",
+      "productID": "SVC-020",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Anti-Scam Check",
+      "description": "Heuristic risk analysis of x402 endpoints and MCP servers. Pattern-based red flag detection only.",
+      "productID": "SVC-021",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Context Optimizer",
+      "description": "AI-generated suggestions for LLM inference parameters based on task type and model.",
+      "productID": "SVC-022",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.02",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Jurisdiction Check",
+      "description": "Automated regulatory landscape scan — identifies potentially applicable regulations for review. NOT legal advice.",
+      "productID": "SVC-023",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.02",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Kill Switch",
+      "description": "Automated budget/safety analysis for proposed agent actions. Preliminary signal only — NOT an authorization.",
+      "productID": "SVC-024",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.05",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "API-to-MCP Converter",
+      "description": "AI-generated MCP tool definitions and server scaffold from REST API specs. Review before use.",
+      "productID": "SVC-025",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "1.50",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Vibe Audit",
+      "description": "AI-generated brand voice consistency analysis across content samples. Subjective assessment.",
+      "productID": "SVC-026",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.50",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Prompt Optimizer",
+      "description": "AI-generated prompt optimization suggestions for cost, quality, or speed. Test before adopting.",
+      "productID": "SVC-027",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.05",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Terms Analyzer",
+      "description": "Automated preliminary scan of Terms of Service for AI agent relevance. NOT legal advice.",
+      "productID": "SVC-028",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.05",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Intent Router",
+      "description": "AI-generated service routing suggestions based on natural language queries.",
+      "productID": "SVC-029",
+      "category": "AI Agent Tools / Service",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.01",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    }
+  ]
+}
