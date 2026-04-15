@@ -653,9 +653,7 @@ function HomePage({ onNav }) {
           A polytheistic approach to AI safety. Derived from biology, ancient temple architecture, and the oldest distributed intelligence system on earth:<br />the beehive.
         </p>
         <p style={{ fontFamily: "Inter, system-ui, sans-serif", fontSize: 11, color: "#9CA3AF", letterSpacing: "0.02em", marginBottom: 8 }}>By Melisia Archimedes</p>
-        <p style={{ fontFamily: "Inter, system-ui, sans-serif", fontSize: 11, color: "#9CA3AF", letterSpacing: "0.02em", marginBottom: 8 }}>
-          12 chapters · 48 references · 1 protocol specification
-        </p>
+
       </div>
 
       {/* Divider */}
