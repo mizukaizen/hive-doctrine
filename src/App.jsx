@@ -301,7 +301,7 @@ const C = {
       { t: "pr", l: "The Coordination Protocol — Task Routing", x: "How agents discover each other, route tasks by capability match, and escalate when they encounter problems outside their constitutional domain." },
       { t: "pr", l: "The Immune Response — Constitutional Drift Detection", x: "Every agent monitors every other agent for constitutional drift. No central security officer. Distributed detection, isolation, diagnosis, resolution. The same mechanism the hive uses to eject a sick bee." },
       { t: "pr", l: "Quorum Sensing — Distributed Decisions", x: "For consequential decisions, agents evaluate independently and commit only when a threshold of agreement is reached — directly modelled on honeybee quorum sensing. No herding. No central vote. The independence of evaluation is what produces the accuracy of the collective decision." },
-      { t: "cta", body: "The Hive Protocol v0.1 is published on GitHub under MIT licence. It includes the SOUL.md format specification, TypeScript interface definitions, a minimum viable hive implementation (three agents + MCP server), and two worked SOUL.md examples.", linkText: "View the Hive Protocol on GitHub →", href: "https://github.com/mizukaizen/hive-doctrine" },
+      { t: "p", x: "The full specification will be published openly when ready. The ideas in this document are free. The protocol will be too." },
     ],
   },
 
@@ -319,7 +319,7 @@ const C = {
       { t: "h3", x: "The paradigm shift." },
       { t: "p", x: "Every major AI company currently treats alignment as a private corporate decision — they privately decide what their model values, the way pharmaceutical companies once privately decided what drugs were safe. The paradigm shift this document proposes is not just architectural. It is political: **alignment is public infrastructure.** Like food safety, building codes, water quality. Not a product feature. Not a competitive differentiator. A public good that society has a right to govern, measure, and require." },
       { t: "h3", x: "What you do now." },
-      { t: "pr", l: "If you build", x: "Stop scaling monoliths. Start experimenting with constitutional agent architectures. Give your agents SOUL.md files. Specialise by culture, not just by function. The protocol is on GitHub." },
+      { t: "pr", l: "If you build", x: "Stop scaling monoliths. Start experimenting with constitutional agent architectures. Give your agents SOUL.md files. Specialise by culture, not just by function." },
       { t: "pr", l: "If you research", x: "Measure constitutional diversity, not just benchmark performance. Study the environmental cost per query. Audit RLHF evaluator demographics. Publish the results." },
       { t: "pr", l: "If you govern", x: "Classify distributed AI systems differently from monolithic ones. Mandate constitutional documentation for deployed agents. Require energy disclosure. The regulatory frameworks written today will shape the next fifty years." },
       { t: "pr", l: "If you use AI", x: "Run your own models. Own your data. Demand transparency about whose values shaped the answers you receive. The intelligence you consult should carry a culture, a constitution, and a name — not a version number." },
@@ -513,15 +513,9 @@ function ClosingText() {
     <>
       <div style={{ height: 1, background: "#E5E7EB", margin: "56px 0 40px" }} />
       <p style={{ textAlign: "center", fontFamily: "Newsreader, Georgia, serif", fontSize: 16, fontStyle: "italic", color: "#9CA3AF", lineHeight: 1.8 }}>
-        This document is free. The philosophy is open. The protocol is on GitHub.<br />
+        This document is free. The philosophy is open. The protocol is coming.<br />
         The ideas belong to everyone. Use them.
       </p>
-      <div style={{ textAlign: "center", marginTop: 24 }}>
-        <a href="https://github.com/mizukaizen/hive-doctrine" target="_blank" rel="noopener noreferrer"
-          style={{ fontFamily: "Inter, system-ui, sans-serif", fontSize: 13, fontWeight: 500, color: "#9B7B3C", textDecoration: "none", borderBottom: "1px solid #9B7B3C" }}>
-          View the Hive Protocol on GitHub →
-        </a>
-      </div>
     </>
   );
 }
@@ -662,12 +656,6 @@ function HomePage({ onNav }) {
         <p style={{ fontFamily: "Inter, system-ui, sans-serif", fontSize: 11, color: "#9CA3AF", letterSpacing: "0.02em", marginBottom: 8 }}>
           12 chapters · 48 references · 1 protocol specification
         </p>
-        <p style={{ fontFamily: "Inter, system-ui, sans-serif", fontSize: 11, color: "#9CA3AF", letterSpacing: "0.02em" }}>
-          <a href="https://github.com/mizukaizen/hive-doctrine" target="_blank" rel="noopener noreferrer"
-            style={{ color: "#9B7B3C", textDecoration: "none", borderBottom: "1px solid #9B7B3C" }}>
-            View the Hive Protocol on GitHub →
-          </a>
-        </p>
       </div>
 
       {/* Divider */}
@@ -764,7 +752,7 @@ const CH_GROUPS = [
   { ch: "07", title: "The Electricity Bill", refs: [14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31] },
   { ch: "08", title: "The Distributed Facade", note: "No external references. Original analysis of current multi-agent ecosystem." },
   { ch: "09", title: "What This Gets Wrong", note: "No external references. Original critical analysis of distributed architecture failure modes." },
-  { ch: "10", title: "The Protocol", note: "The Hive Protocol v0.1 specification. See GitHub repository for full technical references." },
+  { ch: "10", title: "The Protocol", note: "The Hive Protocol v0.1 specification. Full technical references will be published when the protocol is released." },
   { ch: "11", title: "The Manifesto", note: "No external references. Original manifesto." },
 ];
 
