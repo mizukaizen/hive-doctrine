@@ -301,7 +301,7 @@ const C = {
       { t: "pr", l: "The Coordination Protocol — Task Routing", x: "How agents discover each other, route tasks by capability match, and escalate when they encounter problems outside their constitutional domain." },
       { t: "pr", l: "The Immune Response — Constitutional Drift Detection", x: "Every agent monitors every other agent for constitutional drift. No central security officer. Distributed detection, isolation, diagnosis, resolution. The same mechanism the hive uses to eject a sick bee." },
       { t: "pr", l: "Quorum Sensing — Distributed Decisions", x: "For consequential decisions, agents evaluate independently and commit only when a threshold of agreement is reached — directly modelled on honeybee quorum sensing. No herding. No central vote. The independence of evaluation is what produces the accuracy of the collective decision." },
-      { t: "cta", body: "The Hive Protocol v0.1 is published on GitHub under MIT licence. It includes the SOUL.md format specification, TypeScript interface definitions, a minimum viable hive implementation (three agents + MCP server), and two worked SOUL.md examples.", linkText: "View the Hive Protocol on GitHub →", href: "https://github.com/melisai/hive-protocol" },
+      { t: "cta", body: "The Hive Protocol v0.1 is published on GitHub under MIT licence. It includes the SOUL.md format specification, TypeScript interface definitions, a minimum viable hive implementation (three agents + MCP server), and two worked SOUL.md examples.", linkText: "View the Hive Protocol on GitHub →", href: "https://github.com/mizukaizen/hive-doctrine" },
     ],
   },
 
@@ -517,7 +517,7 @@ function ClosingText() {
         The ideas belong to everyone. Use them.
       </p>
       <div style={{ textAlign: "center", marginTop: 24 }}>
-        <a href="https://github.com/melisai/hive-protocol" target="_blank" rel="noopener noreferrer"
+        <a href="https://github.com/mizukaizen/hive-doctrine" target="_blank" rel="noopener noreferrer"
           style={{ fontFamily: "Inter, system-ui, sans-serif", fontSize: 13, fontWeight: 500, color: "#9B7B3C", textDecoration: "none", borderBottom: "1px solid #9B7B3C" }}>
           View the Hive Protocol on GitHub →
         </a>
@@ -663,7 +663,7 @@ function HomePage({ onNav }) {
           12 chapters · 48 references · 1 protocol specification
         </p>
         <p style={{ fontFamily: "Inter, system-ui, sans-serif", fontSize: 11, color: "#9CA3AF", letterSpacing: "0.02em" }}>
-          <a href="https://github.com/melisai/hive-protocol" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/mizukaizen/hive-doctrine" target="_blank" rel="noopener noreferrer"
             style={{ color: "#9B7B3C", textDecoration: "none", borderBottom: "1px solid #9B7B3C" }}>
             View the Hive Protocol on GitHub →
           </a>
